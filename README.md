@@ -39,7 +39,7 @@ I build reliable B2B/SaaS products by combining <b>.NET 8 + Clean Architecture +
 
 ## Recent notes (auto‑updated)
 <!-- posts:start -->
-- Add your latest links here (updated weekly by GitHub Actions).
+
 <!-- posts:end -->
 
 ## Contact
