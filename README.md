@@ -1,4 +1,4 @@
-<h1 align="center">Juan German (jagzao) — Full‑Stack Engineer (.NET 8, React/Vue)</h1>
+<h1 align="center">Hola soy Juan German — Full‑Stack Engineer (.NET 8, React/Vue)</h1>
 
 <p align="center">
 I build reliable B2B/SaaS products by combining <b>.NET 8 + Clean Architecture + CQRS</b> with modern <b>React/Vue + TypeScript</b> frontends.
